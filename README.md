@@ -5,7 +5,7 @@ inspection progress — one page, toggled between the **Wichita**, **St. Louis**
 **Little Rock** territories. Built from RevHawk / FieldRoutes data per office, plus
 (where a campaign has started) the team's zip tracking sheet.
 
-**Live map:** https://ianevo.github.io/evo-termite-map/
+**Live map:** https://evopest.github.io/evo-termite-map/
 
 `index.html` is fully self-contained — Leaflet, boundaries, and all three territories'
 data are inlined. It works opened directly from disk, with no server and no network.
